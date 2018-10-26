@@ -1,0 +1,11 @@
+D:\test git\du_an\bin\Debug\netcoreapp2.0\du_an.deps.json
+D:\test git\du_an\bin\Debug\netcoreapp2.0\du_an.runtimeconfig.json
+D:\test git\du_an\bin\Debug\netcoreapp2.0\du_an.runtimeconfig.dev.json
+D:\test git\du_an\bin\Debug\netcoreapp2.0\du_an.dll
+D:\test git\du_an\bin\Debug\netcoreapp2.0\du_an.pdb
+D:\test git\du_an\obj\Debug\netcoreapp2.0\du_an.csprojAssemblyReference.cache
+D:\test git\du_an\obj\Debug\netcoreapp2.0\du_an.csproj.CoreCompileInputs.cache
+D:\test git\du_an\obj\Debug\netcoreapp2.0\du_an.AssemblyInfoInputs.cache
+D:\test git\du_an\obj\Debug\netcoreapp2.0\du_an.AssemblyInfo.cs
+D:\test git\du_an\obj\Debug\netcoreapp2.0\du_an.dll
+D:\test git\du_an\obj\Debug\netcoreapp2.0\du_an.pdb
